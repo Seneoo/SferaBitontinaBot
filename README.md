@@ -37,7 +37,7 @@
       </td>
       <td align="center" valign="middle" width="50%">
         <h3>⚡ SCAN TO CHAT</h3>
-        <img src="./qrcode.jpg" alt="Telegram QR Code" width="280">
+        <img src="./qrcode.png" alt="Telegram QR Code" width="280">
       </td>
     </tr>
   </table>
